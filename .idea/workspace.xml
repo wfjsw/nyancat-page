@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee647ba-d318-4738-905b-1400832e222b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/navibar.html" />
-      <change type="DELETED" beforePath="D:\nyancat-cms\dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\nyancat-cms\static\css\dashboard.css" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/.nakignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/project.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/.c9/project.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/metadata/tab1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.c9/metadata/tab4" />
+      <change type="MODIFICATION" beforePath="D:\nyancat-cms\dashboard.html" afterPath="D:\nyancat-cms\dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -36,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0" vertical-offset="386" max-vertical-offset="3762">
-              <caret line="38" column="115" selection-start-line="38" selection-start-column="113" selection-end-line="38" selection-end-column="115" />
+            <state vertical-scroll-proportion="0.16355811" vertical-offset="0" max-vertical-offset="3762">
+              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -92,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="news.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="news.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37302727" vertical-offset="690" max-vertical-offset="1615">
+            <state vertical-scroll-proportion="-9.285714" vertical-offset="690" max-vertical-offset="1615">
               <caret line="50" column="111" selection-start-line="50" selection-start-column="111" selection-end-line="50" selection-end-column="111" />
               <folding />
             </state>
@@ -268,7 +271,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -459,27 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0" vertical-offset="386" max-vertical-offset="3762">
-          <caret line="38" column="115" selection-start-line="38" selection-start-column="113" selection-end-line="38" selection-end-column="115" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.571428" vertical-offset="570" max-vertical-offset="1615">
@@ -514,9 +496,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/news.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37302727" vertical-offset="690" max-vertical-offset="1615">
+        <state vertical-scroll-proportion="-9.285714" vertical-offset="690" max-vertical-offset="1615">
           <caret line="50" column="111" selection-start-line="50" selection-start-column="111" selection-end-line="50" selection-end-column="111" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16355811" vertical-offset="0" max-vertical-offset="3762">
+          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
