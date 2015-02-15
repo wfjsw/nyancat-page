@@ -4,7 +4,7 @@ switch(addr){
         location.href="http://nyancat.moe:8123";
         break;
     case "#joinus":
-        location.href="http://jq.qq.com/?_wv=1027&k=YFoxV4";
+        location.href="http://shang.qq.com/wpa/qunwpa?idkey=0395c235106889a7ac7a18feed2689e33aced47afa2ac27b96d9c350e8947dd3";
         break;
     case "#status":
         location.href="http://status.nyanyanya.moe";
